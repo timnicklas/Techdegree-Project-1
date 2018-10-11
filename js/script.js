@@ -36,8 +36,22 @@ var quotes = [
     quote: 'Today you are you, that is truer than true. There is no one alive who is youer than you.',
     source: 'Dr. Seuss',
     citation: 'Happy Birthday to You!',
-    mediaType: 'Children\'s Book',
+    mediaType: 'Book',
     date: '8.12.1959',
+  },
+  {
+    quote: 'Baby, you\'re a firework',
+    source: 'Katy Perry',
+    citation: 'Firework',
+    mediaType: 'Song',
+    date: '10.26.2010',
+  },
+  {
+    quote: 'You can\'t make decisions based on fear and the possibility of what might happen.',
+    source: 'Michelle Obama',
+    citation: '',
+    mediaType: '',
+    date: '2013',
   }
 ]
 
