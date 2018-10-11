@@ -52,6 +52,13 @@ var quotes = [
     citation: '',
     mediaType: '',
     date: '2013',
+  },
+  {
+    quote: 'And now that you don\'t have to be perfect, you can be good.',
+    source: 'John Steinbeck',
+    citation: 'East of Eden',
+    mediaType: 'Book',
+    date: '9.19.1952',
   }
 ]
 
