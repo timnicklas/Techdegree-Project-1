@@ -59,6 +59,13 @@ var quotes = [
     citation: 'East of Eden',
     mediaType: 'Book',
     date: '9.19.1952',
+  },
+  {
+    quote: 'Why do we even have that lever?',
+    source: 'Yzma',
+    citation: 'The Emperor\'s New Groove',
+    mediaType: 'Movie',
+    date: '12.10.2000',
   }
 ]
 
