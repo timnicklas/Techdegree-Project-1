@@ -77,8 +77,8 @@ var colors = ['red','blue','green','black','mustard','DeepPink','Indigo','gray',
 
 function getRandomQuote(arr) {
 // Generate a random number from one to length of array (switched to length, so I could use the same function for getting a random color from the color array)
-return (arr[Math.floor( Math.random() * arr.length )]);
-}
+  return (arr[Math.floor( Math.random() * arr.length )]);
+  }
 
 // this setInterval(method) will change the quote every 10 seconds (found on MDN https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)
 var timer = setInterval(printQuote, 10000);
